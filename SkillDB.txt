@@ -1,0 +1,5 @@
+skill_id	skill_name	effectiveness	rank
+1	FlameBurst	250	A
+2	IceShard	180	B
+3	LightningStrike	300	S
+4	Earthquake	220	A

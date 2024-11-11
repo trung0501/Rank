@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\NguyenTienTrung_21103100534\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0F56B-F09A-4722-B779-EBE96966B3CA}|NguyenTienTrung_21103100534\\NguyenTienTrung_21103100534.csproj|C:\\Users\\admin\\source\\repos\\NguyenTienTrung_21103100534\\nguyentientrung_21103100534\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0F56B-F09A-4722-B779-EBE96966B3CA}|NguyenTienTrung_21103100534\\NguyenTienTrung_21103100534.csproj|solutionrelative:nguyentientrung_21103100534\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0F56B-F09A-4722-B779-EBE96966B3CA}|NguyenTienTrung_21103100534\\NguyenTienTrung_21103100534.csproj|c:\\users\\admin\\source\\repos\\nguyentientrung_21103100534\\nguyentientrung_21103100534\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD0F56B-F09A-4722-B779-EBE96966B3CA}|NguyenTienTrung_21103100534\\NguyenTienTrung_21103100534.csproj|solutionrelative:nguyentientrung_21103100534\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0F56B-F09A-4722-B779-EBE96966B3CA}|NguyenTienTrung_21103100534\\NguyenTienTrung_21103100534.csproj|C:\\Users\\admin\\source\\repos\\NguyenTienTrung_21103100534\\nguyentientrung_21103100534\\skilldb_0534.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0F56B-F09A-4722-B779-EBE96966B3CA}|NguyenTienTrung_21103100534\\NguyenTienTrung_21103100534.csproj|solutionrelative:nguyentientrung_21103100534\\skilldb_0534.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0F56B-F09A-4722-B779-EBE96966B3CA}|NguyenTienTrung_21103100534\\NguyenTienTrung_21103100534.csproj|C:\\Users\\admin\\source\\repos\\NguyenTienTrung_21103100534\\nguyentientrung_21103100534\\playerskills_0534.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD0F56B-F09A-4722-B779-EBE96966B3CA}|NguyenTienTrung_21103100534\\NguyenTienTrung_21103100534.csproj|solutionrelative:nguyentientrung_21103100534\\playerskills_0534.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\NguyenTienTrung_21103100534\\NguyenTienTrung_21103100534\\Form1.cs",
+              "RelativeDocumentMoniker": "NguyenTienTrung_21103100534\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\NguyenTienTrung_21103100534\\NguyenTienTrung_21103100534\\Form1.cs",
+              "RelativeToolTip": "NguyenTienTrung_21103100534\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:46:20.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SkillDB_0534.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\NguyenTienTrung_21103100534\\NguyenTienTrung_21103100534\\SkillDB_0534.cs",
+              "RelativeDocumentMoniker": "NguyenTienTrung_21103100534\\SkillDB_0534.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\NguyenTienTrung_21103100534\\NguyenTienTrung_21103100534\\SkillDB_0534.cs",
+              "RelativeToolTip": "NguyenTienTrung_21103100534\\SkillDB_0534.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:45:37.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerSkills_0534.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\NguyenTienTrung_21103100534\\NguyenTienTrung_21103100534\\PlayerSkills_0534.cs",
+              "RelativeDocumentMoniker": "NguyenTienTrung_21103100534\\PlayerSkills_0534.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\NguyenTienTrung_21103100534\\NguyenTienTrung_21103100534\\PlayerSkills_0534.cs",
+              "RelativeToolTip": "NguyenTienTrung_21103100534\\PlayerSkills_0534.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:43:49.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\NguyenTienTrung_21103100534\\NguyenTienTrung_21103100534\\Form1.cs",
+              "RelativeDocumentMoniker": "NguyenTienTrung_21103100534\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\NguyenTienTrung_21103100534\\NguyenTienTrung_21103100534\\Form1.cs [Design]",
+              "RelativeToolTip": "NguyenTienTrung_21103100534\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:36:19.199Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\NguyenTienTrung_21103100534\NguyenTienTrung_21103100534\bin\Debug\NguyenTienTrung_21103100534.exe.config
+C:\Users\admin\source\repos\NguyenTienTrung_21103100534\NguyenTienTrung_21103100534\bin\Debug\NguyenTienTrung_21103100534.exe
+C:\Users\admin\source\repos\NguyenTienTrung_21103100534\NguyenTienTrung_21103100534\bin\Debug\NguyenTienTrung_21103100534.pdb
+C:\Users\admin\source\repos\NguyenTienTrung_21103100534\NguyenTienTrung_21103100534\obj\Debug\NguyenTienTrung_21103100534.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\NguyenTienTrung_21103100534\NguyenTienTrung_21103100534\obj\Debug\NguyenTienTrung_21103100534.Form1.resources
+C:\Users\admin\source\repos\NguyenTienTrung_21103100534\NguyenTienTrung_21103100534\obj\Debug\NguyenTienTrung_21103100534.Properties.Resources.resources
+C:\Users\admin\source\repos\NguyenTienTrung_21103100534\NguyenTienTrung_21103100534\obj\Debug\NguyenTienTrung_21103100534.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\NguyenTienTrung_21103100534\NguyenTienTrung_21103100534\obj\Debug\NguyenTienTrung_21103100534.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\NguyenTienTrung_21103100534\NguyenTienTrung_21103100534\obj\Debug\NguyenTienTrung_21103100534.exe
+C:\Users\admin\source\repos\NguyenTienTrung_21103100534\NguyenTienTrung_21103100534\obj\Debug\NguyenTienTrung_21103100534.pdb

@@ -1,0 +1,5 @@
+player_id	player_name	skill_id	mastery
+1	Quinn	1	90
+2	Ryan	2	85
+3	Sophie	3	95
+4	Tyler	4	80
